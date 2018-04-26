@@ -11,6 +11,7 @@
 
 - 关联规则挖掘.docx
 - Apriori.py
+- cleaning.py
 
 ## hw3 分类与聚类
 
